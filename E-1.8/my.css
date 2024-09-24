@@ -1,0 +1,35 @@
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 20px 70px;
+    background-color: #7280fa;
+    color: #220080
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: #8fb7bc;
+    color: #72d3fa;
+}
+
+body {
+    margin: 10;
+    padding-bottom: 90px
+    font-family: Arial;
+  }
+
+.left-img {
+      float:left;
+      margin: 10px 10px 10px 10px;
